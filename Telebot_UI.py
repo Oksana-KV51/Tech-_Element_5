@@ -17,7 +17,7 @@ from Logic_Back_end import (add_or_get_user,
 # !!! ПЕРЕКЛЮЧИТЬ НА ОСНОВНОЙ ТЕЛЕГРАМ-БОТ В ФИНАЛЬНОЙ ВЕРСИИ ПРОГРАММЫ !!!
 
 # Ввод токена тестового телеграм-бота и инициализация программы
-TEST_TOKEN = '7088266760:AAG2r0Dz3GJAymtpxqrQpapNgVC91u8E23Q'
+TEST_TOKEN = '7121309234:AAFP6PfgdA1n9krO0OROiRI3EkdQSeYVETU'
 bot = telebot.TeleBot(TEST_TOKEN)
 
 
